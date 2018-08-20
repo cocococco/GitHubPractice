@@ -5,4 +5,4 @@ hghjgkyuygyguycyududy
 
 뉴브랜치 테스트한다
 
-마스터에서수정
+뉴브랜치변경한다
