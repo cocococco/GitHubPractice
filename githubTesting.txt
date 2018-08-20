@@ -6,3 +6,6 @@ hghjgkyuygyguycyududy
 뉴브랜치 테스트한다
 
 뉴브랜치변경한다
+
+커밋연습
+1. 가나다라
